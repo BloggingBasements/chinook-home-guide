@@ -1,0 +1,1 @@
+# chinook-home-guide
