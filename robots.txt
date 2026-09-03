@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# Everything on this guide is open to crawlers.
+Sitemap: https://chinookhomeguide.com/sitemap.xml
